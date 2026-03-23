@@ -1,0 +1,18 @@
+[
+  {
+    "id": "mock_log_1",
+    "timestamp": "2026-03-23T10:00:00.000Z",
+    "origin": "Parul Institute of Engineering",
+    "destination": "Library Wing C",
+    "timeTaken": "8",
+    "status": "PROTOCOL SECURED"
+  },
+  {
+    "id": "mock_log_2",
+    "timestamp": "2026-03-23T09:15:00.000Z",
+    "origin": "North Dormitory",
+    "destination": "Food Court",
+    "timeTaken": "12",
+    "status": "PROTOCOL SECURED"
+  }
+]
